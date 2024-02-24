@@ -583,13 +583,6 @@ meines Volkes, auf seine Fertigkeit und sein feines Verständnis, die Kennzeiche
 eines reinen, aufrichtigen Strebens — einen edlen Ehrgeiz und ein wirkliches
 Vollbringen — richtig einzuschätzen.
 
-::::
+:::
 
 #### **Anmerkungen** {.break-before .unnumbered}
-
-
-
-
-
-
-S. 43
