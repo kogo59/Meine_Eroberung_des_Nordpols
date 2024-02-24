@@ -2,7 +2,7 @@
 
 <img align="right" height="150" src="https://github.com/kogo59/Meine_Eroberung_des_Nordpols/blob/main/images/cover.jpg">
 
-This is a git repository of the source files for the book "Die erste Südpolarnacht 1898-1899.".
+This is a git repository of the source files for the book "Meine Eroberung des Nordpols".
 
 Authors:
 
