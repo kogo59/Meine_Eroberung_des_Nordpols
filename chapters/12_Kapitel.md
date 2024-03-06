@@ -129,7 +129,7 @@ Körperteil, leben ihr individuelles Sonderleben. Die gesondert, als Schatten
 wandernde Seele ist das Agens.
 
 :::: {.wrap-70 .align-center }
-![E-tuk-i-shook und Ah-we-lah](Meine_Eroberung_des_Nordpols_160.jpg "VoE-tuk-i-shook und Ah-we-lah"){#b160}
+![E-tuk-i-shook und Ah-we-lah](Meine_Eroberung_des_Nordpols_160.jpg "E-tuk-i-shook und Ah-we-lah"){#b160}
 ::::
 
 Die Eskimos können sich überdies nicht die Vorstellung irgend eines leblosen
