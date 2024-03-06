@@ -323,7 +323,7 @@ jedesmal beim Zurückweichen fühlte der Ochse die Hundefänge in seinen Schenke
 Nach mehreren solchen Angriffen hielten die Stiere mit vorgestreckten Hörnern
 ihre Stellung, während die Hunde, die unter diesen Umständen nicht wirksam
 anzugreifen wagten, im Kreise herumsaßen und ein blutdürstiges Heulen
-ausstießen. Inzwischen kamen die Eskimos und ich herbeigeeilt,
+ausstießen. Inzwischen kamen die Eskimos und ich herbeigeeilt.
 
 Der Kampf war bald zu Ende. Ich knipste meine Kamera auf einen alten Stier, der
 in diesem Augenblick durch die Hunde brach und von einem Rudel von ihnen auf
