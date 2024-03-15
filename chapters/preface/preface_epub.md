@@ -1,6 +1,6 @@
 :::: { .fs-jumbo .align-center }
 <br />**FREDERICK A. COOK**<br />**MEINE EROBERUNG**<br />**DES NORDPOLS**
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 ::::
 
 :::: { .fs-xl .align-center }
