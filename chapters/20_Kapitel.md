@@ -135,7 +135,7 @@ Pol niedergeschriebenen Original kopiert und an anderer Stelle dieses Buches
 photographisch wiedergegeben ist. 21. April 1908: Länge 97-W; Barometer 29-83;
 Temperatur 37.7; Wolken 1; Wind 1; Misweisung S; Eisblink O; Wasserhimmel W.
 
-:::: {.wrap-100 .align-center  }
+:::: {.wrap-100  }
 ![&nbsp;](Meine_Eroberung_des_Nordpols_261.jpg ""){#b261}
 ::::
 
@@ -194,7 +194,7 @@ Sobald der Fuß auf den Schnee trat, bedeutete dessen Weichheit, sein Widerstand
 oder sein metallisches Klingen, die unfreundliche oder feindselige Gesinnung der
 Geister. Aus Farbe, Bewegung oder Krachen des Eises sprach die Laune der ihm
 innewohnenden Mächte oder des mutmaßlichen Lebens, tief unten, in der rastlosen
-See. In der Auslegung dieser GeisterZeichen, gerieten die beiden in sehr
+See. In der Auslegung dieser Geisterzeichen, gerieten die beiden in sehr
 erhebliche Meinungsverschiedenheiten. Ah-we-lah sah dramatische Bilder und kam
 in fast hysterische Erregung, während E-tuk-i-shook darin nur die Einförmigkeit
 des täglichen Lebens erblickte. Das war der Gegenstand des Interesses und der
