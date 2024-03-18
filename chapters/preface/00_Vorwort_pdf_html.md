@@ -1,517 +1,299 @@
-# Vorwort des Übersetzers.<br />  {#VORWORT .unnumbered}
+# Geleitwort {#GELEIT .unnumbered}
 
 ::: justified
-Eine neue Ära der Südpolarforschung ist angebrochen. Sechzig Jahre sind
-vergangen seit der denkwürdigen Fahrt des jüngeren Ross; das Rätsel des Nordpols
-wurde im Laufe dieser Zeit so ziemlich gelöst, am Südpol hingegen ist noch mehr
-als ein Rätsel zu lösen. Man ist dort kaum über einige Andeutungen von Land
-hinausgekommen.
 
-Nun aber scheint die Zeit angebrochen zu sein, wo auch die Geheimnisse des
-Südpols ergründet werden sollen. Was von den kompetentesten Gelehrten seit einem
-Menschenalter als eine Notwendigkeit erkannt wurde, geht nun seiner
-Verwirklichung entgegen. Möge der gegenwärtige Aufschwung der Südpolarforschung
-diesen Männern eine Genugthuung sein, wenn auch eine späte Genugthuung. Ich
-denke hier zunächst an den Leiter der Seewarte in Hamburg, Geheimrat Neumayer,
-der seit vier Dezennien unermüdlich die Wiederaufnahme der Südpolarforschung
-empfohlen und ausser Zweifel das Hauptverdienst um das Zustandekommen derselben
-hat.
+Im Frühling vorigen Jahres erzählte mir ein in Europa zum Besuch weilender
+Deutsch-Amerikaner, daß der Polarforscher Dr. Cook endlich im Begriff stehe,
+einen ausführlichen Bericht über seine Expedition 1907—1909, auf der er als
+Erster den Nordpol erreichte, zu veröffentlichen und daß er gleichzeitig den
+durch seinen Rivalen, Konteradmiral Peary, heraufbeschworenen Streit klarstellen
+wolle.
 
-Mit *Neumayer* haben wir Deutsche ein doppeltes Interesse an der
-Südpolarforschung. Unser Interesse ist zunächst ein wissenschaftliches, und das
-teilen wir mit allen anderen Nationen. Wie es scheint, wollen wirklich alle
-zivilisterten Nationen bei der Lösung dieses wissenschaftlichen Problems
-zusammen mitarbeiten. Belgien hat mit der Expedition unter der verdienstlichen
-Leitung De Gerlache’s den Anfang gemacht. Eine englische Expedition unter
-Borchgrevink folgte ein Jahr später, und gegenwärtig sind vier vorzüglich
-ausgerüstete Expeditionen (eine deutsche, englische, schottische und
-schwedische) nach einem einheitlichen Plan im Südpolargebiet thätig. Die
-deutsche Expedition unter Drygalski ging im August 1901 ab.
+Cook war mir eine interessante Persönlichkeit auf dem Gebiete arktischer
+Forschung; die Riesentriumphe und Ovationen, die ihm nach seiner Rückkehr aus
+dem hohen Norden, im Herbst 1909, in der dänischen Hauptstadt und später in
+seiner Heimat zuteil wurden, waren vielleicht allzu dithyrambischer Natur, um
+so tragischer aber erschien dann der gegen ihn künstlich gezüchtete
+Antagonismus, — die Peary-Kontroverse, — und, um so unerklärlicher, sein
+Untertauchen, sein völliges Verschwinden aus aller Öffentlichkeit. Das blieb mir
+ein völliges Rätsel, auf dessen Lösung ich gespannt war. Wie für manchern
+Entdecker oder Erfinder stand auch für Frederick A. Cook der tarpejische Felsen
+unmittelbar beim Kapitol, folgte doch für ihn, von der Höhe des Ruhmes, ein
+jäher Sturz in unergründliche Tiefe!
 
-Auch Frankreich und die Vereinigten Staaten zeigen Lust, eine Expedition
-auszurüsten.
+Mein Freund von der andern Seite des Atlantik kannte meine Anteilnahme an der
+stark verschleierten Materie und, einige Monate später, erhielt ich einen
+buchartigen, reichillustrierten „Prospectus“, wie ihn amerikanische und
+englische Verleger über bedeutendere Veröffentlichungen herausbringen pflegen.
+Der Titel lautete: „*My Attainment of the Pole.* Being the record of the
+expedition that first reached the Boreal Center 1907—1909. With the final
+summary of the Polar controversy by *Dr. Frederick A. Cook.* New York. The Polar
+Publishing Co. Marbridge Building 1911.“ Das Vorwort, eine eingehende
+Inhaltangabe, das erste Kapitel und verschiedene weitere Textproben, denen eine
+ganze Anzahl guter Originalabbildungen beigegeben war, veranlaßten mich, der
+Bearbeitung einer deutschen Ausgabe näher zu treten, wenngleich ich mir nicht
+verhehlte, daß Cook durch den unerquicklichen Streit, sein langes Schweigen und
+die rätselhafte „Flucht aus der Öffentlichkeit“, — gleichgiltig ob mit oder ohne
+eigene Schuld, — bereits Etliches von seinem Ruhme eingebüßt hatte.
 
-Möge der Erfolg den grossartigen Veranstaltungen entsprechen! Mögen namentlich
-auch jene vielen Unglücksfälle vermieden werden, wie sie die Geschichte der
-Nordpolarforschung aufweist! Wenn es gelänge, innerhalb eines Jahrzehntes die
-Erforschung des Südpolargebietes wenigstens bis zu dem Stadium zu fördern, in
-welchem sich gegenwärtig unsere Nordpolarkenntnisse befinden, so würde dieses
-Dezennium die glänzendste Periode der wissenschaftlichen Forschung darstellen.
+Ende Oktober lernte ich Cook, als er in Deutschland weilte, persönlich kennen,
+nachdem ich kurz vorher Gelegenheit gehabt hatte, sein umfängliches Buch im
+Original, wenigstens zum größten Teile, zu lesen. Im Empfangszimmer des
+Monopolhotels trat mir ein mittelgroßer Mann entgegen, dem zweifelsohne
+Ausdauer, Zähigkeit und Willenskraft aus den Zügen sprachen, während seine
+klugen, klaren Augen ab und an aufleuchteten und, im Gespräch, bisweilen ein
+humorvolles, wenn auch etwas resigniertes Lächeln um seine Lippen spielte.
+Obwohl Cook (sein Vater, der als Arzt nach Amerika auswanderte, hieß Koch) rein
+deutscher Abstammung ist, war mir sein süddeutschallemanischer Dialekt nahezu
+unverständlich und die Unterhaltung wurde fast ganz in englischer Sprache
+geführt. Dabei gewann ich von meinem Gegenüber den Eindruck eines Mannes, der
+für arktische Forschungsreisen geradezu prädestiniert schien. Ein sehniger
+Körper, gesund, geschmeidig, ein willensstarker Geist, wissenschaftlich
+geschult, ausgerüstet mit langjähriger, umfassender Kenntnis der Arktik und
+Antarktik, besitzt Cook das Unentbehrlichste für derartige Expeditionen: den nie
+versiegenden *Willen zum Leben!* Ein lieber, etwas schüchtern-bescheidener, aber
+offener Mensch, von selbstlosem Charakter und echt deutschem Idealismus, hat er
+sich, trotz aller trüben Erfahrungen und bösen Verunglimpfungen, jenen
+sieghaften Optimismus bewahrt, dessen der wahre Forscher, Entdecker oder
+Erfinder nicht entraten kann. Ein solcher Mann kann *nie* ein Schurke sein! Das
+war mein Eindruck von Cook und meine Überzeugung. Auf Grund der Lektüre seiner
+Reisebeschreibung und jener mehrstündigen Aussprache, ging ich an die
+Bearbeitung einer deutschen Ausgabe des Buches, für das ich in *Alfred Janssen
+in Hamburg* einen einsichtsvollen und rührigen Verleger fand. Das war nicht
+leicht, denn durch den Streit um die Erst-Entdeckung des Nordpols, lastete, dank
+der weit verzweigten Peary-Intrigue, auf Cook in aller Welt ein schweres Odium,
+das gänzlich zu zerstören, dem Nachstehenden gelingen möge!
 
-Diese Hoffnung ist nicht ganz unbegründet. Denn fürs erste verfügen wir heute
-über andere Mittel als die Engländer und Holländer vor drei Jahrhunderten, als
-sie ihre Polarforschung im Norden begannen, ja, auch über andere Mittel als die
-Parry’sche und Fränklin’sche Periode. Ausserdem gehen die modernen
-Polarexpeditionen nicht mehr auf materiellen Gewinn aus. Unsere
-Entdeckungsreisenden haben also eine grössere Bewegungsfreiheit. Diese Umstände
-lassen hoffen, dass die grundlegende Erforschung des Südpolargebietes in
-verhältnismässig kurzer Zeit vollendet sein wird. Der Wettstreit der Nationen,
-das allseits auflebende Interesse für diese Probleme lassen wenigstens das eine
-hoffen, dass in den Forschungsreisen keine längere Unterbrechung mehr eintreten
-wird.
+Bei der Übersetzung habe ich auf getreueste Wiedergabe des Originals das größte
+Gewicht gelegt, mit dem gleichzeitigen, redlichen Bemühen, den gesamten Stoff in
+flüssiger, allgemein verständlicher Darlegung dem deutschen Leser — Fachleuten
+und Laien — zugänglich zu machen. Die geographischen Namen sind, soweit
+angängig, verdeutscht, die Schreibweise der Personennamen jedoch, dem Original
+gemäß, wiedergegeben, wenn einzelne auch vielleicht einer kleinen Korrektur
+bedürfen. Bei Entfernungs-, Temperatur- u. a. Angaben blieben die amerikanischen
+Messungen (Meilen, Fuß, Fahrenheitskala u. a.) bestehen. Allen, die mich bei
+dieser Arbeit mit Rat und Tat unterstützten, auch an dieser Stelle freundlichen
+Dank!
 
-Wie jeder Wettkampf, so wird auch dieser friedliche Wettkampf die Kräfte
-stärken, und darin liegt ein zweites, ein natıonales Moment, welches für uns
-Deutsche zu Gunsten der Polarforschung in die Wagschale fällt, Möge man nicht
-vergessen, dass die englischen Polarexpeditionen am Ausgang des Mittelalters
-dazu beigetragen haben, die englische Nautik zu vervollkommnen, einen Bestand an
-geschulten Seeleuten heranzubilden und so die grossartige Entwicklung der
-englischen Marine mitzubegründen. In Deutschland kann eine ähnliche Wirkung
-nicht ausbleiben. Die deutsche Schiffahrt ist bereits in einem derartigen
-Aufschwung begriffen, dass die deutschen Werften weitaus nicht mehr imstande
-sind, die Aufträge der deutschen Kaufleute zu erledigen. Möge diese günstige
-Entwicklung einen glücklichen Fortgang nehmen! War ein solcher Aufschwung durch
-die politische Einigung Deutschlands ermöglicht, so werden. diese Erfolge
-umgekehrt dazu beitragen, die Einigkeit zu festigen. Nichts ist imstande, den
-Nutzen der Einigkeit deutlicher zum Bewusstsein zu bringen, als grosse nationale
-Erfolge, und indem man sich für grosse deutsche Unternehmungen begeistert, wird
-diese Begeisterung unwillkürlich zum nationalen Selbstbewusstsein.
+Wie groß übrigens das Odium, oder richtiger, die, auf Grund der unseligen
+Peary-Machinationen erwachsene Voreingenommenheit gegen Cook, selbst bei
+deutschen Wissenschaftlern, war und teilweise wohl noch ist, davon gibt
+folgendes Erlebnis eine Illustration. Cook war der Meinung, daß einer deutschen
+Ausgabe seines Werks ein kurzes Geleitwort einer deutschen Fachautorität
+vielleicht förderlich sein könne, und bat mich deshalb, an eine mir namhaft
+gemachte Persönlichkeit heranzutreten.
 
-Damit aber diese Wirkung eintritt, erscheint es mir als notwendig, möglichst
-weite Kreise für derartige Unternehmungen zu interessieren; auch solche Kreise,
-in die sich keine wissenschaftlichen Zeitschriften verirren. Wie das norwegische
-Volk lebhaft Anteil nahm an der Expedition Nansens, so möge auch das deutsche
-Volk die deutschen Unternehmungen *kennen* und sie *miterleben!*
+Obgleich durchaus nicht gleicher Ansicht, wollte ich Cook seine Bitte nicht
+abschlagen und begab mich, nach gebührender Voranmeldung, etwas widerwillig, zu
+besagter Säule deutscher Wissenschaft. Nach einigem Antichambrieren zwischen den
+geologischen Schätzen des Instituts, wurde ich liebenswürdig empfangen. Als ich
+aber dem Herrn Geheimrat den Zweck meiner Mission vortrug, der deutschen Ausgabe
+des Cookschen Werkes sein Geleitwort auf den Weg zu geben, da schwoll die
+Zornesader des (auch an Körpervolumen) gewaltigen Gelehrten mächtig an, und ich
+dachte, sofern er dich nicht gleich niederschlägt, schickt er dir sofort seinen
+Kartellträger. Ich Ärmster, war durch dieses unerhörte Ansinnen der
+Gelehrtenehre des Wackern, in aller Harmlosigkeit, allzu nahe getreten, was mich
+allerdings nicht abhielt, unter lächelndem Bedauern, diese aufbegehrende
+Pro-Peary-Koryphäe auf das doch auch für jede Wissenschaft geltende „Audiatur et
+altera pars“ in aller Ruhe hinzuweisen. — Der würdige Universitätslehrer und
+Geheimrat konnte füglich Cooks abschließenden Reisebericht kaum flüchtig gelesen
+haben, aber doch war sein Urteil vollkommen fertig! Heiliger Autoritätsglaube! —
+— Der unbefangene, deutsche Leser wird selbst darüber urteilen können, wem die
+Ruhmespalme für das erstmalige Erreichen des Nordpols zuzuerkennen ist, — ob
+Cook oder Peary, — wenn auch des Letzteren Buch in deutscher Ausgabe seitens des
+berechnenden Verlegers sofort abgestoßen wurde, als das Erscheinen einer
+deutschen Übersetzung des Cookschen Werkes in Aussicht stand.
 
-Die belgische Südpolarexpedition ist die Vorläuferin der gegenwärtigen deutschen
-Expedition. Möge die vorliegende Übersetzung dazu beitragen, die deutschen Leser
-mit den Leistungen der belgischen Südpolarexpedition, aber auch zugleich mit
-den Problemen des Südpoles bekannt zu machen und mit lebhaftem Interesse für die
-Südpolarforschung zu erfüllen.
+Es ist gleichgültig, ob Cook den minutiös genauen *Polpunkt* erreichte oder
+nicht, daß er auf dem *Polfelde* war, ergibt der nachstehende Bericht. Der
+soeben heimgekehrte Entdecker des Südpols, Captain Roald Amundsen, der neben
+Nordenskjöld, Sverdrup, Greely und anderen, gründlichen Kennern arktischer und
+antarktischer Verhältnisse *stets* auf Cooks Seite stand, sagt selbst, daß er
+das Polfeld der Antarktik durchschritten und umkreist habe, denn der *Polpunkt
+lasse sich mit Hilfe der Reise-Instrumente genau überhaupt nicht feststellen!*
 
-:::: {.align-right}
-*Der Übersetzer.*
+:::: align-center
+Friedenau b. Berlin, 15. August 1912<br />
+**Erwin Volckmann**
 ::::
 
 :::
 
-:::: {.wrap-100 .align-center .break-before}
-![&nbsp;](Die_erste_Suedpolarnacht_015.jpg ""){#b000}
+:::: { .fs-xl .align-center .break-before }
+Den Pfadfindern
 ::::
 
+::::: fs-s
+Dem Indianer, der Pemmican und Schneeschuh erfand,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dem Eskimo, der uns das Schlittenreisen lehrte,<br />
+Diesen Zwillingsgeschlechtern eines Naturvolks,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;das keiner Flagge untertan,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gebührt die erste Anerkennung!<br /><br />
+Den vergessenen Bahnbrechern,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deren Schatz an Erfahrung Führer war,<br />
+Den gefallenen Kämpen, deren gebleichtes Gebein die<br />
+ersten Sprossen des Aufstiegs auf der Leiter der Breiten<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kennzeichnet,<br />
+Diesen allen, den Pfadfindern —<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;einst, jetzt und in Zukunft —<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Widme ich die erste Seite!<br /><br />
+In dem abschließenden Erfolge liegt Ruhm genug,<br />
+Um zu den Grüften des Todes und zu den Höhen<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;des Lebens zu schreiten.
+:::::
 
-# Einleitung.<br /> {#EIN .unnumbered}
+
+
+# Vorwort {#VOR .unnumbered}
 
 ::: justified
 
-Seit dreihundert Jahren arbeiten die Forscher daran, den Schleier des
-Geheimnisses, der über dem Nordpol liegt, zu lüften, während der ebenso wichtige
-Südpol diese ganze Zeit hindurch fast unbeachtet blieb. Es haben ja Expeditionen
-nach dem fernen Süden stattgefunden, aber im Vergleich zu den arktischen
-Unternehmungen waren deren so wenige, und ihre Thätigkeit innerhalb des
-Polarkreises war so gering, dass ihre Resultate völlig in Vergessenheit
-gerieten. Nicht als ob keine brauchbaren Erfolge in der Antarktis erzielt worden
-wären, aber das Interesse an der Nordpolarforschung beherrschte das Publikum so
-vollständig, dass die Antipoden dagegen gar nicht aufkommen konnten. Die
-Entdeckung der Nordwest- und Nordost-Passage, welche die Kaufherren im 17. und
-in der ersten Hälfte des 18. Jahrhunderts anstrebten, um den Handel mit dem
-Orient zu erleichtern, lenkte die öffentliche Aufmerksamkeit fortwährend nach
-Norden. Diese fortgesetzten Bemühungen, einen bequemen Weg zu den Reichtümern
-Asiens aufzufinden, waren fruchtlos, aber sie brachten einen Aufschwung des
-Walfischund Robbenfangs und einen Pelzhandel, der sich für die Menscheit von
-unschätzbarem Nutzen erwiesen hat. Eine Folge dieser zwei Perioden von
-Handelsexpeditionen ist es, dass wir uns jetzt in einem dritten Stadium
-befinden, in einer Periode wissenschaftlicher Forschung, und diese wird und soll
-nicht eher ein Ende finden, als bis der ganze Länder-Komplex in den
-fortlaufenden Annalen der exakten Wissenschaft beschrieben ist.
+Dieser Reisebericht wurde als ein erster Entwurf meiner Entdeckung des Nordpols
+ausgearbeitet. Es sind darin die wissenschaftlichen Daten, die Beobachtungen, ja
+jede Phase dieser Pionierarbeit mit ihrem Ausfluß an menschlicher Willenskraft
+auf Grund eigener Aufzeichnungen zu einer überraschenden Aufeinanderfolge der
+Ereignisse ausgestaltet. Den photographischen Apparat habe ich, wo nur immer
+möglich, benutzt, um sowohl die Fortschritte der Expedition, wie auch die Wunder
+und Geheimnisse der arktischen Einöden im Bilde festzuhalten, gleichzeitig mit
+der Absicht, später, bei passender Gelegenheit, die oberflächlich hingeworfenen
+Notizen, die unzusammenhängenden, täglichen Eintragungen und Ergebnisse
+instrumenteller Beobachtungen, jedes Geschehnis, jeden sichtbaren oder geistigen
+Eindruck wieder nachzuprüfen und einzureihen zu einer gedrängten Schilderung der
+einander folgenden Etappen beim Vordringen in den Mittelpunkt der Arktik. Wenn
+es mir gelungen ist, dies Alles zu einem verständlichen Gesamtbilde unserer
+Umgebung herauszuarbeiten, dann hat dieses Buch seinen Zweck erreicht.
 
-Der Südpol hat eine ziemlich ähnliche Geschichte, aber sie ist, wie gesagt, fast
-ganz in Vergessenheit geraten.
+Man spricht viel von dem absoluten geographischen Beweise einer
+Entdeckungsreise, doch die Geschichte lehrt, daß ein Buch, das einen
+abschließenden, maßgeblichen Bericht bringt, der beste Zeuge für die Anrechte
+eines Forschers ist. Nach dem Bericht ist jeder Forscher beurteilt worden. Von
+den Zeiten der Entdeckung Amerikas bis zur Erforschung des dunkelsten Afrikas
+und der Erschließung Tibets haben alle Männer, die je die Wahrheit der
+Rechtsansprüche an einer Entdeckung prüften, nie nach abstrakten Erscheinungen
+gesucht, sondern nach dem logischen Zusammenhange der Schilderungen auf den
+Seiten des abschließenden Reiseberichts. In einer solchen Schilderung ist nach
+sorgfältigem Prüfen und Vergleichen der Beweis oder die Widerlegung der
+Entdeckeranrechte zu finden.
 
-Bis 1772 erfreute sich die südliche kalte Zone einer blumenreichen Schilderung
-durch Romandichter, welche sie als ein fruchtbares, nach Norden weit in den
-atlantischen stillen Ozean hineinragendes Land beschrieben, bewohnt von einer
-ganz eigenen Menschenrasse, mit einem Überfluss an Gold, Edelsteinen und anderen
-Schätzen. Um die Wahrheit über dieses neue „Land der Verheissung“ zu erfahren,
-wurde Kapitän James Cook im Jahre 1772 ausgeschickt. Cook umsegelte mit der
-Gründlichkeit, welche für seine Thätigkeit charakteristisch ist, die Erdkugel
-nahe genug dem südlichen Polarkreis, um der Welt zu beweisen, dass, wenn
-wirklich ein Land von grösserer Ausdehnung um den Südpol herum existieren
-sollte, dasselbe weit jenseits der gewöhnlichen Eisgrenzen sich befinden müsse.
-Sechzig Jahre später rüsteten auf Betreiben amerikanischer und englischer
-Robbenfänger, welche jeden bekannten Felsen der Südsee nach Robben und
-See-Elephanten absuchten, die Vereinigten Staaten, England und Frankreich
-gleichzeitig Expeditionen aus. Die gemeinsame Arbeit dieser Expeditionen
-bezeichnet die zweite Periode der antarktischen Forschung und hatte zur Folge,
-dass man wieder einen grossen Polarkontinent in die Australkarten einzeichnete.
-Wiederum vergingen sechzig Jahre, bis eine weitere Expedition ausgeschickt
-wurde, um einen Vorstoss durch die südliche Eisbarriere zu machen. Die Reise der
-„Belgica“ bezeichnet ein Wiederaufleben der antarktischen Forschung und den
-Beginn einer dritten Periode, welche durch zielbewusste Bestrebungen, die fast
-gleichzeitig in England, Deutschland, Belgien und den Vereinigten Staaten
-auftraten, eingeleitet wurde. Diese dritte Periode der Südpolarforschung steht
-ebenso wie der dritte Abschnitt der Entdeckungsreisen nach dem Nordpol ganz im
-Dienste der Wissenschaft.
+In solchen Darstellungen, wie sie auch im Nachstehenden geboten werden, haben
+später Reisende und andere Sachkundige, die keinem anderen Interesse, als dem
+der Wahrheit dienten, den Gesamtstoff kritisch geprüft. Im Laufe der Zeit also,
+wenn parteiliche Stimmungen vergessen sind und eine gewissenhafte Prüfung
+stattfindet, hat die Geschichte stets ein klares und gerechtes Urteil gefällt.
 
-Das erste Land, welches die Ausrüstung einer modernen Expedition zustande
-brachte, war Belgien. England und Deutschland haben augenblicklich Expeditionen
-in Vorbereitung, aber die Ehre der ersten Aussendung einer wissenschaftlichen
-Expedition mit geschulten Fachleuten und einer der Antarktis angemessenen
-Ausrüstung gebührt Belgien.
+In gleicher Weise wird mein Anspruch, als Erster den Nordpol erreicht zu haben,
+sich auf den im Nachstehenden gebotenen Einzelheiten als richtig begründen.
 
-Das Zustandekommen der belgischen Südpolarexpedition verdanken wir den
-energischen Bemühungen des Leutnants Adrien de Gerlache. Er veranstaltete zu
-diesem Zwecke öffentliche Sammlungen, sicherte sich die finanzielle
-Unterstützung der belgischen Regierung und brachte auf diese Weise schliesslich
-60,000 Dollars zusammen, welche knapp ausreichten, die nötige Ausrüstung zu
-beschaffen. Das für die Reise auserschene Fahrzeug war das norwegische
-Robbenschlägerschiff „Patria“, welches in „Belgica“ umgetauft wurde. Es war ein
-starkes Schiff, von ungefähr 250 Tonnen, vor etwa 10 Jahren gebaut. Es wurde
-nicht verstärkt, oder nach dem Plan von Nansen’s Schiff, der „Fram“, umgebaut,
-wie wiederholt berichtet wurde. Nichtsdestoweniger bewährte es sich als ein
-Fahrzeug von ausserordentlicher Widerstandsfähigkeit, das den Anprall der
-Felsen, die Zusammenstösse mit Eisbergen und den Druck des Packeises in geradezu
-wunderbarer Weise aushielt. Infolge der knappen verfügbaren Mittel liess die
-äussere Ausstattung des Schiffes und die Ausrüstung für eine Polarexpedition
-etwas zu wünschen übrig. Wenn wir zu einem längeren Aufenthalt oder zu einer
-grösseren Überlandreise oder einem Rückzug über das Eis gezwungen gewesen wären,
-hätte sich die Unzulänglichkeit unserer Ausrüstung unangenehm fühlbar gemacht.
+Bei der Ausarbeitung der Schicksale dieser Expedition und dieses Buches, das
+über ihre Arbeiten berichtet, habe ich Vielen für ihre Hilfe zu danken. Da ist
+zuerst *John R. Bradley*, dem ich mich tief verpflichtet fühle. Seine offene
+Hand gab der Expedition das Leben, und durch seine getreuliche Unterstützung und
+Hilfsbereitschaft war ich in den Stand gesetzt, in Annoatok die Grundlagen für
+das Unternehmen zu schaffen. Durch seine reichen Proviantzuwendungen war uns
+während des ersten Jahres ein behagliches Leben ermöglicht und darum gehören die
+Erstlinge an der Eroberung des Nordpols John R. Bradley.
 
-Die Teilnehmer der Expedition stammen aus Verschiedenen Ländern, wie die
-folgende Liste zeigt:
+Ein Zoll warmer Anerkennung gebührt *Rudolph Francke.* Nach Heimfahrt des
+Schiffes war er mein einziger zivilisierter Gehilfe und Begleiter. Die
+gewissenhafte Art, mit der er die ihm übertragenen, schweren Pflichten erfüllte
+und sein stiller Frohsinn während der bösen Wochen der langen Polarnacht
+verdienen ein hohes Maß der Anerkennung!
 
-Commandant Adrien de Gerlache^[^0001]^ (Belgier)
+Der kleine Menschenschlag des äußersten Nordens lieferte, ohne Entgelt, die
+Lebenskraft und die natürliche Findigkeit, ohne die jede Polarforschung eine
+hoffnungslose Aufgabe wäre. Diese arktischen Pygmäen mit goldiger Haut, mit
+Muskeln von Stahl und schlichten Herzen, vollbrachten eine Arbeitsleistung, die
+nicht genug gerühmt werden kann. Die beiden Jungen *Ah-welah* und
+*E-tuk-i-shook* verdienen eine Ruhmestafel. Sie folgten mir mit jener Ausdauer,
+die eine der besten Eigenschaften der Wilden darstellt. Sie erduldeten mit mir
+alle Beschwernisse der mühseligen Reise, sie ertrugen ohne Klage den
+unstillbaren Hunger, den quälenden Durst und die fürchterliche
+Weltabgeschiedenheit, ohne jeden Gedanken an eine Belohnung, nur mit dem
+selbstlosen Wunsche, dem zu folgen, den sie aus eigener Wahl als ihren Freund
+betrachteten. War ein Heldenstückchen auszuführen, die Beiden taten es, und die
+Geschichte soll ihr Heroentum in unauslöschlichen Zügen künden!
 
-Kapitän George Lecointe^[^0002]^ (Belgier), erster Offizier und
-Hydrograph.
+Auf Ansuchen meiner Frau sandte die kanadische Regierung ihr Schiff „Arctic“
+unter Kapitän *Bernier* mit ergänzenden Vorräten nach Itah (Etah), wo diese
+unter Aufsicht von *Harry Whitney* zurückgelassen wurden. Die Rückkehr in die
+Zivilisation erfolgte gleichfalls mit aller Bequemlichkeit, wie die schwierige
+Aufgabe begonnen hatte. Allen Beteiligten trage ich hier meine Dankesschuld ab.
 
-Roald Amundsen^[^0003]^ (Norweger), erster Maat.
+In lieber Erinnerung gedenke ich der warmen Gastfreundschaft der Dänen in
+Grönland, ich werde sie nie vergessen! Der Königlichen Grönländischen
+Handels-Kompagnie und der Forenede Dampskib Selskab bin ich zu vielem Danke
+verpflichtet, vor Allem aber bin ich der Dänischen Nation dankbar für jene von
+Herzen kommenden Kundgebungen ihrer Freundschaft und Anerkennung in Kopenhagen.
 
-Emil Danco^[^0004]^ (gestorben, Belgier), Physiker.
+Bei Herausgabe dieses Buches war ich auf die sachkundige Arbeit und Sorgfalt *T.
+Everett Harry’s* angewiesen. Durch seinen unverwüstlichen Eifer, seine
+Wiederordnung des Stoffes und sorgliches Korrekturlesen ist diese Schrift
+wesentlich verbessert worden und für seine lange, freundliche Hilfsbereitschaft
+kann diese Anerkennung nur eine spärliche Entlohnung sein.
 
-Emil Racovitza^[^0005]^ (Rumänier), Zoologe und Botaniker.
+Ich schließe diese Zeilen mit dem lebhaften Bedauern, daß die Rücksicht auf den
+Preis des Buches, dessen Anschaffung Jedem ermöglicht sein soll, mir Kürze gebot
+und die Zahl der Seiten bestimmte.
 
-Henryk Arctowski^[^0006]^ (Russe), Geologe, Ozeanograph und
-Meteorologe.
+Mein letztes Wort an Alle — an Freund und Feind — ist dies: Wollt ihr ein Urteil
+fällen, dann studiert die Aufgabe, das Problem! Ihr seid ebenso imstande, euch
+ein sicheres Urteil zu, bilden, wie jeder sich zum Richter aufwerfende
+Sachkundige. Einer von Peary’s Kapitänen hat geäußert, „er wüßte, daß Peary den
+Nordpol nicht erreichte, würde es aber nicht zugeben.“ Konteradmiral *Chester*
+hat das Gleiche über mich gesagt, aber in fetter Schrift und dick unterstrichen!
+Mit der gebührenden Achtung vor diesen Herren, und gerechterweise, muß ich
+sagen, daß sie und ihre Gesinnungsgenossen, voll blinden Vorurteils, nicht
+besser zu urteilen imstande sind, als jeder Laie. Wenn ihr dies Buch gelesen
+habt, dann leset Peary’s „Nordpol“, aber beide Bücher Seite für Seite. Stellt
+ihr Vergleiche an, dann bedenket, daß meine Entdeckung des Pols ein Jahr früher
+erfolgte, als Peary’s Ansprüche lauten, daß mein Bericht Monate früher, als
+Peary’s niedergeschrieben wurde, daß Peary’s Angaben derartige sind, daß
+Konteradmiral *Schley* äußerte: „Nach Lesen der täglich und kritisch abgefaßten
+Berichte beider Anwärter war ich durch die auffallende Ähnlichkeit zu dem
+Schlusse gezwungen, daß jeder von ihnen Augenzeuge des Erfolges des Andern war.
+Ohne heimliches Einverständnis wäre es unmöglich, einander so ähnliche
+Schilderungen niederzuschreiben.“
 
-Antoine Dobrowolski^[^0007]^  (Russe), meteorologischer Assistent.
+Diese Ansicht der in arktischer Forschung und Navigation erfahrenen Autoritäten
+wird von allen Polarforschern bestätigt. Kapitän *E. Baldwin* geht noch weiter,
+und beweist meinen Anspruch aus Peary’s eigenem Buche. Gouverneur *Brown* von
+Georgia sagt, nach kritischer Prüfung beider Berichte: „Wenn Peary uns glauben
+machen will, daß Cook die Welt beschwindelt habe, dann hat Peary uns noch weit
+mehr hineingelegt!“
 
-Frederick A. Cook^[^0008]^ (Amerikaner), Arzt, Anthropologe und Photograph.
+Seit mein Bericht erstmalig geschrieben und gedruckt wurde, scheint die
+überraschende Ähnlichkeit mit Peary’s Text entweder meinen Stand auf dem Pole
+darzutun oder sie weist nach, daß Peary meine Angaben benutzte und so seiner
+„Geschichte“ die Wahrscheinlichkeit eines zweiten Triumphes verlieh.
 
-<br />*Maschinisten:* Henry Somers (Belgier). Max van Rysselberghe^[^0011]^ (Belgier).
+Ganz gegen meinen Willen bin ich gezwungen, die Machenschaften selbstsüchtiger
+Ungerechtigkeit nebenbuhlerischer Interessen zu enthüllen. Dabei ist es nicht
+meine Absicht, Peary’s Erfolgen zu mißtrauen oder sie anzuzweifeln, sondern nur
+seine Nadelstiche und Versuche zu zeigen, die mich diskreditieren sollen. Ich
+möchte gern beide Augen zudrücken über jene lange Reihe von Missetaten, wie ich
+es in den verflossenen Jahren tat, aber den Streit um den Nordpol kann man nicht
+verstehen, ohne die Perspektiven des Mannes zu kennen, der ihn eroberte. Gern
+habe ich bisher Andern gestattet, ihr Beweismaterial vor Aller Augen
+auszubreiten. Die Fragen, die ich aufwerfe, sind von geringerer Bedeutung. Die
+Hauptsache, die Entdeckung des Nordpols, ist ohne Zweifel. Der Pol ist
+tatsächlich in Ehren erreicht worden und der Adler der Union hat seine
+ruhmreichen Schwingen ausgebreitet über den nördlichen Pol der Erde. Dort aber
+ist unter diesen Fittichen Raum für Einen, für Zwei oder mehr, und ich lasse
+gern die Zukunft entscheiden!
 
-<br />*Matrosen:*
-
-|<small>Belgier:</small>|<small>Norweger:</small>|
-|---|---|
-|Jules Melaerts|Adam Tollefsen.|
-|Jan Van Mirlo|Hjalmar Johansen.|
-|Gustave Dufour|Johann Koren.^[^0010]^|
-|Louis Michotte| Engebret Knudsen.|
-||Carl Augustus Wiencke✝^[^0009]^.|
-
-Wir waren unser neunzehn, als wir Punta Arenas verliessen, — sieben Offiziere,
-welche in den behaglichen, kleinen Kabinen wohnten, und zwölf Matrosen,
-einschliesslich Dobrowolski, im Vorderdeck. Wir bildeten zwei glückliche
-Familien, und als solche suchten wir der eisigen Umgebung des Südpols soviel
-Behaglichkeit abzugewinnen, als in den Regionen des ewigen Schnees möglich war.
-
-Die „Belgica“ verliess Antwerpen Ende August 1897 und durchfuhr teils unter
-Segel, teils mit Dampf den atlantischen Ozean, lief Madeira an, kreuzte dann den
-Ozean bis nach Rio de Janeiro, fuhr von da hinab nach Montevideo und durch die
-Magalhãestrasse nach Punta Arenas. Nachdem wir uns einige Zeit in den Kanälen
-von Feuerland und bei den Indianerstämmen von Cap Horn herumgetrieben hatten,
-nahmen wir auf der Staateninsel am 13. Januar 1898 Abschied von der bekannten
-Welt. Eine Woche später kamen wir in Sicht der Süd-Shetlandsinseln, wo wir
-während eines heftigen Sturmes den braven, jungen Matrosen Wiencke aus Norwegen
-durch einen unglücklichen Fall über Bord verloren. Wir durchkreuzten hierauf die
-stets nebelbedeckten und allzeit stürmischen Gewässer der Branstfieldstrasse,
-und am Nachmittag des 23. Januar 1898 bekamen wir die äusseren Grenzen eines
-neuen Landes, des Palmerarchipels, zu Gesicht. Beim Eindringen in denselben
-entdeckten wir eine neue Strasse, welche sich in der Grösse mit der
-Magalhãestrasse vergleichen lässt. Wir nahmen ungefähr fünfhundert Meilen von
-dem diese Strasse nach Osten und Westen begrenzenden Lande auf. Dieses Land
-hatte bis dahin noch kein menschliches Auge erblickt. Es bildet einen Teil des
-grossen Kontinents, welcher wahrscheinlich den Südpol schweren Decke von ewigem
-Eis begraben. Nachdem wir die Strasse passiert hatten, kamen wir in den
-südlichen Teil des stillen Ozeans, von da, an der Westgrenze von Grahamland
-entlang fahrend, nach der Adelaideinsel und weiterhin nach der Alexanderinsel,
-und suchten nun in die nach Westen gelegene Hauptmasse des Packeises
-einzudringen.
-
-Das Resultat der Arbeit der ersten drei Wochen ın diesen neuen Regionen war also
-die Entdeckung einer Strasse, welche während der Sommermonate für die Schiffahrt
-vollkommen frei ist, und welche von der Bransfieldstrasse aus sich durch bisher
-unbekanntes Land bis zum stillen Ozean erstreckt. Dieser Strasse haben wir den
-Namen unseres Schiffes beigelegt. Im Osten der Belgicastrasse fanden wir eine
-mächtige, fortlaufende Küste, welche wahrscheinlich mit dem in den Karten als
-Grahamland bezeichneten Gebiet zusammenhängt. Es wurde Dancoland getauft, zur
-Erinnerung an unseren Gefährten, Leutnant Danco, welcher während der langen
-Trift im Packeis an Bord starb. Das Land im Westen der Strasse ist durch mehrere
-Kanäle in Inseln abgeteilt und wurde von uns Palmerarchipel benannt, zu Ehren
-des Kapitäns Nathaniel Palmer, des amerikanischen Robbenfängers, welcher zuerst
-die äussere Küste dieses Landes gesehen hat. In den Gewässern der Belgicastrasse
-zerstreut liegen an die hundert Inseln und mehrere Inselgruppen. Etwa fünfzig
-davon sind von beträchtlicher Grösse. Die Inseln, Vorgebirge, Buchten,
-Halbinseln und Berge erhielten grossenteils Namen unserer belgischen Freunde der
-Expedition; indes wurden auch hervorragende Ausländer nicht vergessen, wie die
-Namen Nanseninsel und Neumayerkanal beweisen. Jeder Offizier erhielt das Recht,
-einige Namen zu bestimmen; darum wurden die zwei Inseln, welche mich trafen,
-nach meiner Vaterstadt und dem ersten Bürgermeister von Gross-New-York
-„Brooklyn- und Van Wyck-Insel“ getauft.
-
-Als wir die Strasse passiert hatten und uns wieder im stillen Ozean befanden,
-trachteten wir, nach Süden die Küste entlang zu fahren; aber das Packeis nötigte
-uns, von diesem Kurse abzugehen. Ende Februar drangen wir in die Hauptmasse des
-Meereises ein, in der Absicht, einen Vorstoss in südwestlicher Richtung zu
-machen. Neunzig Meilen weit eingedrungen, sahen wir uns vollständig
-eingeschlossen. Da wir nicht imstande waren, das Schiff frei zu machen, trieben
-wir mit dem Eis dreizehn lange Monate hindurch bald dahin, bald dorthin, meist
-jedoch nach Westen. Bald nach Eintritt der langen Polarnacht starb Lieutnant
-Danco. Abgesehen von der gedrückten Stimmung, welche dieser schmerzliche Verlust
-bedingte, war der Gesundheitszustand der Mitglieder der Expedition ziemlich gut;
-aber die siebzig Tage ununterbrochener Finsternis drückten schwer auf uns. Die
-wissenschaftlichen Arbeiten wurden das ganze Jahr hindurch während unserer Trift
-fortgesetzt. Jeder von uns kann mit Stolz auf seine Resultate zurückblicken.
-Alle jedoch waren glücklich, als wir am 14. März 1899 endlich aus den Eisfesseln
-befreit wurden, welche uns so lange festgehalten hatten.
-
-Wir verliessen das Packeis unter 103° westlicher Länge von Greenwich und 70° 45‘
-südlicher Breite. Wir waren also ungefähr vom 85° bis zum 103° westlicher Länge
-und zwischen 70° und 72° südlicher Breite getrieben. Im März und April trieben
-wir westwärts bis zu 92° 25‘ Länge, woselbst wir uns am 25. April befanden. Von
-Mai bis Oktober trieben wir wieder zurück bis nahe an den Ausgangspunkt. Von
-November bis zu dem Zeitpunkt unserer Befreiung aus dem Eise trieben wir wieder
-stark nach Westen. Die Wintertrift ist also nach Osten, die Sommertrift nach
-Westen gerichtet, und das entspricht auch der vorherrschenden Windrichtung.
-Unser südlichster Punkt wurde erreicht am 31. Mai: 71' 36° 5“ südliche Breite
-und 87° 40' westliche Länge. Kein weiteres Vordringen nach dem Südpol wäre von
-keinem Punkte unserer Trift aus möglich gewesen. Die verschiedenen Lotungen,
-welche wir vornahmen, ergaben, dass da, wo man früher Land vermutete, Meer war.
-Ein weiteres Resultat dieser Lotungen ist die Entdeckung einer submarinen Bank,
-ungefähr so gross wie die, welche der Küste von Neufundland vorgelagert ist. Aus
-den vorzüglichen magnetischen Beobachtungen durch Lecointe geht hervor, dass der
-magnetische Pol ungefähr zweihundert Meilen Östlich von seiner bisher
-angenommenen Lage zu suchen ist. Die stündlich angestellten meteorologischen
-Beobachtungen unter Leitung von Arctowski sind von unschätzbarem Werte für die
-Wissenschaft. Die peinlich genauen zoologischen Arbeiten von Racovitza und die
-zahlreichen sonstigen Beobachtungen und Untersuchungen über die antarktischen
-Lebewesen und Naturerscheinungen sind nicht minder wertvoll. Als Amerikaner kann
-ich, ohne unbescheiden zu erscheinen, sagen, dass diese belgische
-Südpolarexpedition die Grundlage für die künftige antarktische Forschung bilden
-wird.
-
-Die folgenden Blätter sollen keineswegs eine abgerundete Darstellung unserer
-Erfahrungen und Beobachtungen geben. Das bleibt einem späteren Werke
-vorbehalten. Meine Absicht war, aus meinem Tagebuche und meinen Aufzeichnungen
-das auszuwählen, was von allgemeinem Interesse ist. In meinem Bestreben, mich
-auf einen einzigen Band zu beschränken, habe ich vieles von den täglichen
-Erlebnissen übergangen. Ich habe auch auf die Erörterung technischer Fragen
-verzichtet. Mein Buch macht auch keinen Anspruch darauf, alle wissenschaftlichen
-Daten der Expedition zu bringen. Die Beobachtungen, die Beschreibung der
-Sammlungen und die wissenschaftlichen Abhandlungen werden anderweitig
-veröffentlicht werden. Die belgische Regierung hat in freigebiger Weise die
-Mittel genehmigt, welche eine Publikation der wissenschaftlichen Resultate in
-geeigneter Form ermöglichen, und eine Kommission ist zu diesem Zweck bereits mit
-der Sichtung des umfangreichen Materials beschäftigt. Wir sind nicht ausgezogen,
-um den Südpol zu entdecken, wie uns nachgesagt wurde. Unser Ziel war nicht so
-hoch gesteckt; es galt die wissenschaftliche Erforschung der unbekannten
-Grenzgebiete, und darin haben wir einen respektablen Erfolg erzielt. Mein
-Bericht handelt daher nicht von einer Poljägerei mit ihren vielen,
-unvermeidlichen Enttäuschungen. Es ist der Ruhm der Expedition, zum erstenmal
-die lange, antarktische Nacht und ihre schaurigen Winterstürme durchgemacht zu
-haben, und ich hoffe, dass diese in einer neuen, menschenfeindlichen Welt von
-Eis gewonnenen Erfahrungen zur Bereicherung des menschlichen Wissens beitragen
-werden.
-
-Die Illustrationen in diesem Buch sind mit wenigen Ausnahmen nach Photographien
-angefertigt, und da dies die ersten photographischen Aufnahmen aus der Antarktis
-sind, glaube ich annehmen zu dürfen, dass sie schon als solche wertvolle
-Dokumente aus dem unbekannten Süden bilden. In den farbigen Tafeln wollten wir
-einige Bilder von den täglichen Farbeneffekten geben, welche in die trostlose
-Einförmigkeit und in das blendende Weiss der Südpolargegenden einige Abwechslung
-bringen. Diese lebhafte Mischung dieser zarten Farbentöne kann bei den meisten
-dieser Bilder mit den jetzt zu Gebote stehenden Mitteln des Farbendrucks
-unmöglich wiedergegeben werden; aber die Wirkung, welche Künstler, Graveur und
-Drucker in diesen Reproduktionen erzielten, hat mich angenehm überrascht.
-
-Berichte über meine Rückkehr aus der Antarktis und über die belgische
-Südpolexpedition, welche in amerikanischen Zeitungen erschienen, liessen ganz
-gegen meine Absicht durchblicken, als ob ich für meine Person den Löwenanteil
-der Anerkennung für die Erfolge dieser Expedition in Anspruch nehmen wollte.
-Dagegen möchte ich an dieser Stelle Einspruch erheben. Die Ehre, die Expedition
-organisiert zu haben, gebührt ihrem Leiter, Adrien de Gerlache; die Ehre, die
-Expedition entsendet zu haben, gebührt dem Unternehmungsgeist des belgischen
-Volkes: Ruhm und Ehre gebühren *als Lohn eines erfolggekrönten Unternehmens*
-jedem Mitglied der Expedition. Ein jeder, vom ersten Offizier bis zum
-Schiffsjungen, hat an dem Werk ehrlich und redlich mitgearbeitet, und ein jeder,
-von der Kajüte bis zum Vorderdeck, hat deshalb den gleichen Anspruch auf die
-ehrende Anerkennung, welche des Forschers einziger Lohn ist.
-
-:::: align-right
-**Frederick A. Cook, M. D.**
+:::: align-center
+Waldorf-Astoria, New York, 15. Juni 1911<br /> 
+**Frederick A. Cook**
 ::::
 
 :::
-
-
-
-# Verzeichnis der Illustrationen.<br /> {#ABB .unnumbered}
-
-## <small>Vollbilder.</small>
-
-* [Ein antarktischer Eisberg (farbig),](#b000) Titelbild
-* [Andrien de Gerlache](#b019)
-* [Die Bucht von Rio mit dem Corcovado](#b005a)
-* [Rio de Janeiro](#b005b)
-* [Ansicht von Montevideo](#b009)
-* [Feuerländische Knaben](#b012) (farbig) 
-* [Hütten der Indianermission](#b016a)
-* [Ansicht von Punta Arenas](#b016b)
-* [Die sturmreichen Felsen der westlichen Inseln von Feuerland](#b020)
-* [Die Ausläufer der Cordilleren, Beaglekanal](#b024)
-* [Onafrauen in ihrer vollständigen Kleidung, mit kleinen Kindern auf dem Rücken](#b045a)
-* [Onamänner auf der Jagd](#b045b)
-* [Onatypen. Häuptling Colchicoli. Eine von seinen Frauen](#b032a)
-* [Ein Onahaus](#b036a)
-* [Onas auf dem Marsche](#b036b)
-* [Ein Ona als Bogenschütze](#b083)
-* [Ein Onajäger, schussbereit](#b091)
-* [Ein männlicher Seelöwe](#b048)
-* [Seelöwen, Staateninsel](#b048b)
-* [Dr. Frederick A. Cook](#b053)
-* [Sonnenuntergang über der Brabantinsel](#b056)
-* [Mount William, Antwerpeninsel](#b059a)
-* [Mount Allo, Lüttich-Insel](#b059b)
-* [Weddells Seeleoparden, Belgicastrasse](#b065a)
-* [Cormoran’s daheim](#b068)
-* [Arctowski sammelt Gesteinsproben, beachtet von einer Riesenraubmöve.](#b068b) (Cap Lancaster im Hintergrund)
-* [Ein Pinguinfelsen, Coballescouinsel](#b072a)
-* [Eine Pinguinfamilie auf dem Packeis](#b072b)
-* [Brialmont-Bucht. Cap Murray, Sonnenaufgang und Sonnenuntergang zugleich über der Ostküste der Belgicastrasse](#b076)
-* [Ansicht im Osten vom Neumayerkanal. Ein Teil der Wiencke-Insel. Sierre du Fief im Hintergrund.](#b080a)
-* [Brooklyninsel](#b080b)
-* [Lemairekanal. Wandelinsel](#b088)
-* [Cap Cloos](#b088a)
-* [Die Besteigung eisbedeckter Berge](#b092a)
-* [Ein Lager](#b092b)
-* [Cap Eivind Astrup, Nordspitze der Wienckeinsel](#b096)
-* [Cap Renard, Dancoland](#b100)
-* [Geschichteter tafelförmiger Eisberg bei Cap Rasmussen, an dessen Leeseite die „Belgica“ während der Nacht des 12. Februar lag](#b104a)
-* [Eisberg in der Belgicastrasse, mit einem grossen Tunnel](#b104b)
-* [Eine der Wauwermansinseln](#b108)
-* [Sophiefelsen, Dancoland](#b108a)
-* [Mitternacht im Hochsommer des antarktischen Festlandes (farbig)](#b112)
-* [Die „Belgica“, durch das Treibeis nach Süden vordringend](#b120a)
-* [Eisberg bei Cap Tuxen](#b120b)
-* [Pinguins auf einem verwitterten Eisberg, der einem Walfisch ähnlich ist](#b124)
-* [Ein tafelförmiger Eisberg, beobachtet an der Packeisgrenze im südlichen stillen Ozean. Ungefähr 200 Fuss hoch.](#b128)
-* [Ansicht des Packeises aus der Vogelperspektive in der Nähe des äusseren Randes](#b136)
-* [Lecointe, Beobachtungen anstellend. Das nautische Observatorium](#b140a)
-* [Dobrowolski. die Dicke des frischgefallenen Schnees messend](#b140b)
-* [Schneeholen zur Ergänzung des Wasservorrats](#b144a)
-* [Vornahme einer Lotung](#b144b)
-* [Belustigung der Matrosen](#b152a)
-* [Bug der „Belgica“ nach dem Zusammenstoss mit einem Eisberg](#b152b)
-* [Die Hummocks einer Pressungskante](#b156a)
-* [Wellenförmige Schneefläche](#b156b)
-* [Ein Wassertümpel. Der Spielplatz der Walfische, Robben und Pinguins.](#b160a)
-* [Mondlichtphotographie der „Belgica“, 20. Mai 1898](#b160b)
-* [Flechten](#b164a)
-* [Mosseo Andreae a laxifolia H. und W.](#b164c)
-* [M. van Rysselberghe am Condensator, der in einen Schmelzkessel für Schnee verwandelt ist](#b168)
-* [Racovitza am Mikroskop](#b172a)
-* [Arctowski im Laboratorium](#b172b)
-* [Acht aufeinanderfolgende Phasen einer Südlichterscheinung am 19. März 1898](#b176)
-* [Eine Seite mit Schuhen von der „Belgica“](#b180a)
-* [Handschuhe von der „Belgica“](#b184a)
-* [Proben von Stopfarbeit](#b184b)
-* [Luftloch eines Walfisches](#b192a)
-* [Luftloch einer Robbe](#b192b)
-* [Eisberg am Rande des Packeises, etwa 120 Fuss hoch](#b196a)
-* [Pinguinspuren](#b196b)
-* [Krabbenfresser](#b200a)
-* [Rossrobbe](#b200b)
-* [Der echte Seeleopard](#b200c)
-* [Weddells Seeleoparden auf dem Packeis](#b204a)
-* [Die Rossrobbe mit aufgeblasener Luftröhre](#b208)
-* [Der eigentliche Seeleopard. Krabbenfresser.](#b212a)
-* [Eine alte Rinne](#b216a)
-* [Eine neue Eisspalte](#b216b) 
-* [Beobachtung von Pinguins](#b224a) 
-* [Der kleine Packeispinguin](#b228a) 
-* [Der Königspinguin](#b228b) 
-* [Kopf und Fuss eines Königspinguins](#b232a) 
-* [Kopf und Fuss des kleinen Packeispinguins](#b232b) 
-* [Riesensturmvogel. Riesenraubmöve](#b236a)
-* [Amundsen nach einem Skilauf](#b240) 
-* [Die „Belgica“ im September. Das neue Zelt und die Ausrüstung für Touren auf dem Packeis.](#b248) 
-* [Dämmerung im antarktischen Eis (farbig)](#b252) 
-* [Ein Jäger nimmt ein Sonnenbad](#b256a) 
-* [Der letzte in den Schlafsack für drei Mann](#b256b) 
-* [H. Arctowski und G. Lecointe. Die Unterhaltung beim Nachmittagsthee](#b264) 
-* [Über Hummocks und Eisspalten. Rand des Eisfeldes der „Belgica“ im Oktober.](#b268) 
-* [Grenze des antarktischen Packeises](#b272) 
-* [Die Mitternachtsonne über dem Packeis](#b280a) 
-* [Eisblumen](#b284a) 
-* [Die Eisschollen, aus denen das Polareis entstehen](#b284b) 
-* [Ein Eisberg, festgehalten durch das Packeis, die sogenannte „Eisbarriere“ bildend](#b288) 
-* [Das Weihnachtsmahl im Hochsommer](#b292) 
-* [Portraits von Cook, Amundsen und Racovitza vor der Abreise und nach der Rückkehr](#b301a)
-* [Ein alter, verwitterter Hummock](#b304a)
-* [Der sandähnliche Treibschnee](#b304b)
-* [Ein tafelförmiger Eisberg, der grösste Eisberg innerhalb des Horizonts während der Trift der „Belgica“.](#b312)
-* [Die Belgica im Eis](#b316a)
-* [Alte Hummocks](#b320a)
-* [Eine Tonitexplosion zum Zweck der Befreiung der „Belgica“](#b320b)
-* [Entfernung der oberen Schicht vor dem Auseinandersägen der harten unteren Schicht](#b328a)
-* [Ein Kanal zur Befreiung der „Belgica“ aus ihrem Gefängnis](#b328b) 
-* [Schwimmende Eisberge](#b336a) 
-* [Aussicht von dem Plateau eines Eisberges aus](#b336b) 
-* [Seltsame verwitterte Eisberge, 300 Fuss hoch](#b340a) 
-* [Seesterne und Seeigel vom Grund des antarktischen Meeres](#b344a) 
-* [Eine neue Garneele der Gattung Euphausia, entdeckt durch Racovitza](#b344b) 
-* [Eine Gruppe Pinguins, die Besucher der „Belgica“](#b348) 
-* [Die Matrosen nach Ablauf der langen Nacht](#b352a)
-* [Cap Renard (Danco-Land)](#b356)
-
-
-## <small>Textillustrationen.</small>
-
-* [Das „Krähennest“](ch005.xhtml#b001)
-* [Die „Belgica“](#b042)
-* [Grössenunterschied zwischen einem Ona und einem Kaukasier](#b087)
-* [Schneesturmvogel](#b139)
-* [Gestalten des Mondes](#b178)
-* [Arctowski und Amundsen vor einem Spaziergang](#b233) 
-* [Unser Schiff im Packeis, hilflos und hoffnungslos](#b260) 
-* [Saennagras](#b270)  
-* [„Nansen“, unser Liebling](#b286) 
-* [Verzerrtes Bild der aufgehenden Sonne](#b299)
-* [Schneebrille](#b321)
-* [Segelschlitten](#b400)
-
-
 
 
 :::: {.wrap-70 .align-center .break-before}
-![Andrien de Gerlache.<br /><small>Leiter der belgischen Südpolarexpedition.</small>](Die_erste_Suedpolarnacht_019.jpg ""){#b019}
+![&nbsp;](Meine_Eroberung_des_Nordpols_000.jpg ""){#b019}
 ::::
 
 
-
 #### **Anmerkungen** {.break-before .unnumbered}
-
-[^0001]: [*Adrien de Gerlache*: vergleiche [Adrien de Gerlache de Gomery](https://de.wikipedia.org/wiki/Adrien_de_Gerlache_de_Gomery)]{.footnote}
-
-[^0002]: [*Georges Lecointe*: vergleiche [Georges Lecointe](https://de.wikipedia.org/wiki/Georges_Lecointe_(Offizier))]{.footnote}
-
-[^0003]: [*Roald Amundsen*: vergleiche [Roald Amundsen](https://de.wikipedia.org/wiki/Roald_Amundsen)]{.footnote}
-
-[^0004]: [*Emil Danco*: vergleiche [Émile Danco](https://de.wikipedia.org/wiki/%C3%89mile_Danco)]{.footnote}
-
-[^0005]: [*Emil Racovitza*: vergleiche [Emil Racoviță](https://de.wikipedia.org/wiki/Emil_Racovi%C8%9B%C4%83)]{.footnote}
-
-[^0006]: [*Henryk Arctowski*: vergleiche [Henryk Arctowski](https://de.wikipedia.org/wiki/Henryk_Arctowski)]{.footnote}
-
-[^0007]: [*Antoine Dobrowolskii*: vergleiche [Antoni Bolesław Dobrowolskii](https://de.wikipedia.org/wiki/Antoni_Boles%C5%82aw_Dobrowolski)]{.footnote}
-
-[^0008]: [*Frederick A. Cook*: vergleiche [Frederick Cook](https://de.wikipedia.org/wiki/Frederick_Cook)]{.footnote}
-
-[^0009]: [*Carl Augustus Wiencke*: vergleiche [Carl-August Wiencke](https://de.wikipedia.org/wiki/Carl-August_Wiencke)]{.footnote}
-
-[^0010]: [*Johan Koren*: vergleiche [Johan Koren](https://de.wikipedia.org/wiki/Johan_Koren_(Polarforscher))]{.footnote}
-
-[^0011]: [*Max van Rysselberghe*: vergleiche [Max van Rysselberghe](https://en.wikipedia.org/wiki/Max_van_Rysselberghe)]{.footnote}
 
 
