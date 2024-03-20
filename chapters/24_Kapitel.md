@@ -122,7 +122,7 @@ Jagdmethoden zu erproben, die wir halbwegs, nach vielen Hungertagen, erfanden.
 ::::
 
 :::: {.wrap-70 .break-before .align-center }
-![E-tuk-i-shook an einem Eisloch auf einen Seehund wartend](Meine_Eroberung_des_Nordpols_321.jpg "VE-tuk-i-shook an einem Eisloch auf einen Seehund wartend"){#b321}
+![E-tuk-i-shook an einem Eisloch auf einen Seehund wartend](Meine_Eroberung_des_Nordpols_321.jpg "E-tuk-i-shook an einem Eisloch auf einen Seehund wartend"){#b321}
 ::::
 
 Ich verfolgte die Burschen durch den Kieker, wie sie über die Eisspalten
