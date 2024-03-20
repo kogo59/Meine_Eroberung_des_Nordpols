@@ -30,7 +30,7 @@ wenn wir keinen Walfischfänger begegneten, wieder nach Norden zu ziehen. Die
 Temperatur blieb jetzt regelmäßig nahe dem Gefrierpunkt und mit den ersten
 Julitagen wurde das Barometer unbeständig.
 
-:::: {.wrap-100  }
+:::: {.wrap-100 .align-center }
 ![Zurück zu Land und Leben, Erwachen beim Amselschlag](Meine_Eroberung_des_Nordpols_304.jpg "Zurück zu Land und Leben, Erwachen beim Amselschlag"){#b304}
 ::::
 
