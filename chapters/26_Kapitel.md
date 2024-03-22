@@ -404,12 +404,8 @@ an Moschusochsentalg und noch mehr an dem Mark, das wir mit der gleichen
 Begierde aus den Knochen sogen, wie ein Kind glückselig am Stück Kandis lutscht.
 
 :::: {.wrap-70 .align-center }
-![Moschusochsenjagd bei Kap Sparbo ](Meine_Eroberung_des_Nordpols_357.jpg "IMoschusochsenjagd bei Kap Sparbo "){#b357}
+![Moschusochsenjagd bei Kap Sparbo ](Meine_Eroberung_des_Nordpols_357.jpg "Moschusochsenjagd bei Kap Sparbo "){#b357}
 ::::
-
-
-
-
 
 :::
 
