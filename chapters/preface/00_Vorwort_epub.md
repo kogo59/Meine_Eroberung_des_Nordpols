@@ -114,7 +114,7 @@ lasse sich mit Hilfe der Reise-Instrumente genau überhaupt nicht feststellen!*
 
 :::: align-center
 Friedenau b. Berlin, 15. August 1912<br />
-**Erwin Volckmann**
+**Erwin Volckmann**<br /><br /><br /><br />
 ::::
 
 :::
