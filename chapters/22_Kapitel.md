@@ -389,4 +389,6 @@ Hungertodes.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

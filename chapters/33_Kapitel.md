@@ -380,4 +380,6 @@ die giftigen Schmähungen weiter nachprüfen.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

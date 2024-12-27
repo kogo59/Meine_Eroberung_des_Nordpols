@@ -294,9 +294,7 @@ Das war ein Vermächtnis, das meine Pflicht mir gebot, der sich mühenden,
 strebenden Menschheit zu übergeben und das ich, als Vater, mit Stolz meinen
 kleinen Kindern hinterlassen wollte.
 
-
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2101]: [Das Fallen der Körpertemperatur. Die Körperwärme wurde häufig festgestellt. Infolge Einatmung sehr kalter Luft zeigte das Thermometer, wenn es in die Mundhöhle eingeführt wurde, unverlässliche Angaben, aber unter die Achselhöhle gesteckt, sobald wir im Schlafsack lagen, erhielten wir sehr genaue Resultate. Sie erbrachten den Beweis, dass die aussergewöhnliche Kälte wenig Einfluss auf die Körperwärme ausübt; aber sobald lang anhaltende Überarbeitung mit ungenügender Ernährung verbunden ist, so sinkt die Temperatur allmählig. Auf dem Wege zum Pol schwankte die Körpertemperatur von 97°5‘ bis 98°4‘., Auf dem Rückwege sank die anormale Körperwärme noch tiefer, Als die Sorge immer grösserer Abdrift und die Gefahr nicht mehr zurückkommen zu können zur Gewissheit wurde, zeigte unser klinisches Thermometer die Seelenangst, vereint mit langer Überanstrengung, dauernden Durst und unzulänglicher Ernährung in augenfälliger Weise an. Während der letzten Wochen, bevor wir im Jahre 1909 das Land an der Grönländischen Küste erreichten, sank die anormale Temperatur auf das bemerkenswerte Minimum von 96°2‘ F. Die Eskimos blieben gewöhnlich etwa einen halben Grad wärmer. Die Atmungs- und Herztätigkeit waren in dieser Zeit rasch und unregelmässig.<br /> Während der Sommerzeit, der Hungerperiode am Jones-Sund, war die Temperatur normal. Damals hatten wir Überfluss an Wasser und lebhaftes Interesse an der Wildfrage, doch fühlten wir die Kälte oft weit empfindlicher, als zur kältesten Winterzeit. ]{.footnote}

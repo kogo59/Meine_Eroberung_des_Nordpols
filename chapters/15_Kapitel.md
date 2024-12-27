@@ -298,10 +298,8 @@ im Schlafsack ein hilfloses Geschöpf, mit herabstürzenden Blöcken von Schnee 
 Eis auf mir und um mich, zappelte bei einer Temperatur von — 48° F. in offener
 See!
 
-
-
-
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

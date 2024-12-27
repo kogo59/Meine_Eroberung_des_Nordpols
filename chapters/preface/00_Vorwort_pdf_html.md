@@ -294,6 +294,7 @@ Waldorf-Astoria, New York, 15. Juni 1911<br />
 ::::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
+:::: align-center
+****
+::::
 

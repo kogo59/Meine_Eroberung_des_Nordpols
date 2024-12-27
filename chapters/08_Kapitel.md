@@ -424,5 +424,6 @@ das Maß hinausging und der Tod so schrecklich sein konnte.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

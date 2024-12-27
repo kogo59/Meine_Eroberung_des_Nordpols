@@ -408,9 +408,8 @@ uns erglänzten in warmen Schimmer. Dann bekam das Eis wieder seinen violetten
 Schein, der in Blau überging und winterliches Dunkel benahm dem Auge die Farbe
 und der Seele die Freude.
 
-
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
+:::: align-center
+****
+::::

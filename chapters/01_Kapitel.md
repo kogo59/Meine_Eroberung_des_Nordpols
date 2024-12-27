@@ -585,4 +585,6 @@ Vollbringen — richtig einzuschätzen.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

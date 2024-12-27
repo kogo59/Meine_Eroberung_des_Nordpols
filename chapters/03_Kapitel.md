@@ -555,5 +555,6 @@ sichtig und hell blieb.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
+:::: align-center
+****
+::::

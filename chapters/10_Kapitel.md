@@ -366,6 +366,6 @@ entbehrlich fanden, wurden hier zurückgelassen.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
+:::: align-center
+****
+::::

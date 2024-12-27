@@ -393,7 +393,6 @@ Nagel“ mitgenommen.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3001]: [Diese Vorräte waren glücklicherweise unter der Obhut Whitneys zurückgelassen worden. In den nächsten Monaten bedrohte ihn Murphy zu verschiedenen Malen, um auch diese Dinge an sich zu nehmen, aber Whitneys Gerechtigkeitsgefühl war doch derart, daß keine weitere Plünderung zugegeben wurde.<br /> Das feindliche Gebaren, das Peary gegen Sverdrup und andere Forscher zur Schau getragen hatte, wurde hier von seinem Vertreter nachgeahmt. Captain Bernier war für die amerikanische Küste verpflichtet worden, um das Land im Westen für Kanada zu erforschen und in Anspruch zu nehmen und wünschte einige Eingeborene als Hilfsmannschaft. In Itah wohnten Nachkommen von Eskimoauswanderern gerade aus jener Gegend, die Bernier erforschen sollte. Diese Leute waren voll Sehnsucht, in das Land ihrer Väter zurückzukehren und wären für Bernier hervorragende Führer gewesen. Murphy erbot sich freiwillig, die Eskimos zu fragen, ob sie mitgehen wollten. Er ging an Land und gab vor, er wolle versuchen Führer zu verpflichten, tatsächlich aber hat er nie einen einzigen Eskimo gefragt, ob er mit wolle. Dann ging er zurück und sagte, daß nicht einer mitgehen wolle. Später prahlte er Whitney und Pritchard gegenüber mit seiner Schlauheit, wie er Captain Bernier hintergangen habe. Geschah dies auf Pearys Instruktion hin?]{.footnote}
 

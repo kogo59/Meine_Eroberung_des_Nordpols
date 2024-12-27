@@ -719,6 +719,5 @@ Observatorium, Uccle, Belgien, wird sehr willkommen sein.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2001]: [Fünfzehn Monate später versuchte ich diesen Eindruck einem Schweizer Professor auseinanderzusetzen, der wenig Englisch verstand, worauf er dann die Behauptung aufstellte, dass die Sonne am Pol nachts viel niedriger stände, als mittags. Eine so lachhafte Äusserung ist wohl kaum jemals gemacht worden. In Wirklichkeit entdeckt das Auge keinen Unterschied zwischen der Sonne und dem Horizont während der nächsten 24 Stunden. Es gab keinen sichtbaren Sonnenauf- und Niedergang. Immerhin hatten wir noch mehrere Methoden, dieses wichtige Phänomen zu kontrollieren, worauf wir später zurückkommen werden.]{.footnote}

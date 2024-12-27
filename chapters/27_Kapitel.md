@@ -335,4 +335,6 @@ allein in einer ungeheuren, weißen Welt des Todes.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

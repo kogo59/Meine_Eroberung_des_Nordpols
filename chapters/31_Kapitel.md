@@ -358,6 +358,5 @@ direkt nach New York fuhr.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3101]: [Fleet Street ist das Presseviertel Londons. Anm. d. Uebers.]{.footnote}

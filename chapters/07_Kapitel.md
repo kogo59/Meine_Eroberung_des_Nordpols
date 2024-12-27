@@ -393,8 +393,9 @@ Am 1. November, spät, kamen wir im Lager an.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::
 
 [^0701]: [*Wild-Liste.* Vom 15. August 1907 bis 15. Mai 1909 wurde folgendes Wild erbeutet: 2423 Vögel, 811 Polarhasen, 320 Blau- und Weißfüchse, 32 Grönland-Renntiere, 4 weiße Renntiere, 22 Eisbären, 52 Seehunde, 73 Walrosse, 21 Narwale, 3 Weißwale und 206 Moschusochsen.]{.footnote}
 

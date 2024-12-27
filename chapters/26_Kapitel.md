@@ -409,4 +409,6 @@ Begierde aus den Knochen sogen, wie ein Kind glückselig am Stück Kandis lutsch
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

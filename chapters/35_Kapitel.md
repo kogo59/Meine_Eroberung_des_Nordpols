@@ -170,4 +170,3 @@ meineidigen Material?
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}

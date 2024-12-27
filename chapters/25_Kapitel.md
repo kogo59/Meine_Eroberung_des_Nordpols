@@ -365,4 +365,6 @@ Kap Sparbo.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

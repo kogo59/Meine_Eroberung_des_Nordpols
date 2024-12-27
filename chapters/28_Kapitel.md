@@ -528,4 +528,6 @@ des Polarfeldzuges auszufechten.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

@@ -468,5 +468,6 @@ dem Gipfel der Welt! Unser Banner wehte im eisigen Windhauch des Nordpols!  —
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
+:::: align-center
+****
+::::

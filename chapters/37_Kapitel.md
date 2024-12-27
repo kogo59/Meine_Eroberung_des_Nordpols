@@ -300,6 +300,4 @@ Frederick A. Cook
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^3701]: [„brick“ bedeutet eigentlich: Ziegel, Klumpen. — Hier jedoch gebraucht im Sinne einer spezifisch New Yorker Redensart: *„he sold him a gold brick“,* d. h. er legte ihn ordentlich hinein! D. Übers.]{.footnote}

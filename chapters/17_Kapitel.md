@@ -318,8 +318,6 @@ jedem unbekannten, geheimnisvollen Wege mir beistehen und helfen wollten.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1701]: [Peary behauptet, östlich von diesem Punkte Leben angetroffen zu haben. Das ist durchaus möglich, denn Erforscher der Arktik haben oft bemerkt, dass, wenn in dem einem Jahre Wildspuren im Ueberfluss gefunden wurden, im folgenden keine zu sehen waren. In diesen Spuren von Fuchs und Bär, wie sie Baldwin vermerkte, liegen positive Beweise der Lage von Bradley-Land, denn diese Tiere streifen nur von einer Landbasis aus umher.]{.footnote}
 
 [^1702]: [Beobachtungen am 8. April, nach den Originalaufzeichnungen. 8. April 1908: Länge 94,02’. Barometer 29,80 steigend. Temperatur — 31° Wind 2. Misweisung N.O. Wolken St. 3.

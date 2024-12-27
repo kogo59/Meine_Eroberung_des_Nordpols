@@ -245,5 +245,6 @@ unmöglich, weiter ist unmöglich!)
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
+:::: align-center
+****
+::::

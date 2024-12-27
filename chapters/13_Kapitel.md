@@ -363,8 +363,6 @@ unsern Vorräten zu entnehmen.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1301]: [Viel sorgfältiges Forschen und Suchen wurde bei Svartevoeg aufgeboten, denn Peary behauptet, hier eine Proviantniederlage zurückgelassen zu haben, und den von ihm angeführten Platz benutzte er als Vorwand, um von der Karte den Namen Svartevoeg, den Sverdrup bei der Entdeckung dem nördlichen Teil von Heiberg-Land gegeben hatte, zu entfernen. Peary, der später dahin kam, trug auf seiner Karte die Bezeichnung „Cape Thomas Hubbard ein“, den Namen eines Mannes, der große Gelder in Pearys Tasche fließen ließ. Aber kein solcher Aufbewahrungsort war zu finden und ich zweifle sehr daran, daß Peary jemals diesen Punkt erreichte, es sei denn durch einen Kieker, aus weiter Entfernung.]{.footnote}
 
 [^1302]: [Nach ihrer Rückkehr nach Itah und, nachdem ich Upernavik verlassen hatte, gaben meine Eskimos, von Peary befragt, der sorglich darauf bedacht war, etwas zu finden um mich zu diskreditieren, ganz unschuldig zur Antwort, daß sie immer nur einige wenige Tagereisen vom Lande entfernt gewesen wären. Dieses ungewollte und naive Geständnis wurde in einem anmaßenden Bericht veröffentlicht, in der Absicht, dadurch meinen Anspruch in Zweifel zu ziehen. Anderen Aussagen meiner Eskimos, die darauf hinausgingen, daß ich Instrumente gehabt und beständig Beobachtungen gemacht hätte, wurden — es ist lächerlich zu sagen — konsequent von Peary und Genossen bei ihrer Rückkehr unterdrückt. Jede Anspielung war darauf berechnet, daß ich keine Instrumente gehabt hätte, also auch keine Beobachtungen machen konnte und daher keine Mittel besaß, den Pol zu bestimmen, wenn ich auch gewollt hätte.]{.footnote}

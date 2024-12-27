@@ -316,7 +316,6 @@ des Pro-Pearyschwindels verlangen?
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3401]: [Brief von Barrills Genossen:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Missoula, Mont. 12. Okt. 1909.<br /> Freund Cook. — Ich bedaure, daß ich nicht sofort kommen kann. Aber ich werde in 14 Tagen kommen und Sie besuchen, wenn Sie mir 350 Dollars senden wollen und ich werde sagen, daß der Bericht in den Zeitungen (daß Dr. Cook den Mount MceKinley nicht bestiegen hat), wie ich ausgesagt habe, nicht wahr ist.<br /> In der Hoffnung Sie bald wiederzusehen.<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ihr Freund<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gez. Fred Printz.]{.footnote}
 

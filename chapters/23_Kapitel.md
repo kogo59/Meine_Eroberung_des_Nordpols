@@ -386,4 +386,6 @@ Aussichten, dem Hungertode zu entrinnen, trüber als je zuvor.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

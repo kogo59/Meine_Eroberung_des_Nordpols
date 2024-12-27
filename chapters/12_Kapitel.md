@@ -518,6 +518,6 @@ Mission nach dem Norden.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
+:::: align-center
+****
+::::

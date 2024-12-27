@@ -342,8 +342,6 @@ in so weite Ferne gerückt!
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 
 [^1401]: [Meine Gegner gestehen mir eine Reise von 2000 Meilen zu, die das Doppelte von Peary’s größter Entfernung ist, dann aber wieder leugnen sie meine Erreichung des Pols und lassen mich hier in einer trostlosen Eiswüste während dreier Monate still sitzen. Würde ein Mensch hier sitzen und in Müßiggang frieren, wenn er den erreichbaren Ruhm der Poleroberung zu der einen und die lukullischen Freuden eines wildreichen Landes zur andern Seite hat? Nur ein Verrückter würde so etwas tun, wir aber waren zu sehr beschäftigt, um auch nur zeitweise unser seelisches Gleichgewicht zu verlieren. Wenn die Schenkelkraft das Menschengeschick bestimmt und ein halbgefüllter Magen die Hirntätigkeit hebt, so war bei uns die Geistesstörung nicht zu denken. Späterhin erzählten die Eskimojünglinge, wir wären 7 Monate auf dem Packeise gewesen und hätten einen Platz erreicht, wo die Sonne nachts nicht untergeht und wo die Schatten am Tage und in der Nacht von gleicher Länge waren. Hat Peary den Punkt erreicht? Wenn ja, so haben weder er noch seine Eskimos es bemerkt!
 ]{.footnote}

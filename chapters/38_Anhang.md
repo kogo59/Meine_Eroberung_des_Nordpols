@@ -782,4 +782,6 @@ worden, als irgend jemand einen Anspruch darauf erhob, dort gewesen zu sein.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::

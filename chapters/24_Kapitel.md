@@ -287,4 +287,6 @@ westwärts nach Kap Sparbo auf. Nie auf unserer Fahrt schien der Tod so nahe!
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
+:::: align-center
+****
+::::
