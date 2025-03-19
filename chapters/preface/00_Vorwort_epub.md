@@ -288,12 +288,7 @@ Waldorf-Astoria, New York, 15. Juni 1911<br />
 
 :::
 
-
 :::: {.wrap-70 .align-center .break-before}
 ![&nbsp;](Meine_Eroberung_des_Nordpols_000.jpg ""){#b019}
 ::::
 
-
-:::: align-center
-****
-::::

@@ -483,9 +483,6 @@ Focksegel gelangten wir endlich glücklich in Sicherheit.
 
 :::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0201]: [Harter Fleischkuchen aus besten Teilen.]{.footnote}
 
 [^0202]: [Man hat mich als den grössten Lügner in aller Geschichte hingestellt und gerade über mich sind mehr Lügen verbreitet worden, als über irgend einen Andern. Ich gestehe ein, Fehler gemacht zu haben, und das werden die Meisten tun, die wahr gegen sich selbst sind. Mein Anspruch auf die Entdeckung des Nordpols mag immerhin bestritten werden. Wenn ich aber jetzt die grossen und kleinen, mir angedichteten Lügen betrachte, dann erfasst mich schliesslich Gleichgültigkeit.<br />Zur Illustration dieser Lügengeschichten will ich das alberne Märchen von den Gummibonbons zum Besten geben. Man erzählte das Geschichtchen, ich hätte gehofft, durch Bestechung der Eskimos mit Gummibonbons den Nordpol zu erreichen! — vielleicht hatte man die Idee, ich hätte die Eingeborenen durch regelmässig verabfolgte Rationen dieser Leckerei von Punkt zu Punkt weiter gelockt.<br />Nach Rückkehr sah ich auf meiner Vortragsreise durch die Vereinigten Staaten zu meinem Befremden in den Schaufenstern der Konditoreien „Cook-Gummi-Bonbons“ recht augenfällig angezeigt. Hunderte von Pfunden Gummibonbons wurden mir mit Empfehlungen der Fabrikanten in mein Hotel geschickt. Von allen Seiten tönte mir diese Schnurre in die Ohren und in fast allen Zeitungen las ich die immer wiederkehrende Geschichte, wie die Eskimos durch einen an einem Bindfaden vor ihnen baumelden Gummibonbon zum Nordpol gelockt seien! Ich habe weder dieses noch eines der sonstigen über mich verbreiteten Wippchen berichtigt. Tatsache ist, dass ich von dieser Gummibonbonanekdote nicht eher hörte, als bis ich nach New York kam. Wir hatten keine Gummibonbons auf unsere Polarreise mitgenommen und, soviel ich weiss, hat kein Eskimo, solange er mit mir zusammen war, Gummibonbons gegessen.]{.footnote}
