@@ -1,6 +1,6 @@
 # Meine Eroberung des Nordpols.
 
-<img align="right" height="150" src="https://github.com/kogo59/Meine_Eroberung_des_Nordpols/blob/main/images/cover.jpg">
+<img align="right" width="200" src="https://github.com/kogo59/Meine_Eroberung_des_Nordpols/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Meine Eroberung des Nordpols".
 
